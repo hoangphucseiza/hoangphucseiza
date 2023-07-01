@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Phúc</h1>
 <h3 align="center">A passionate web-developer from VietNam</h3>
 
-<p align="left"> <img src="https://giphy.com/gifs/typing-9w0z3gxgaEUiA" /> </p>
+<p align="left"> <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" /> </p>
 
 - 📫 How to reach me **hoangphucseiza@gmail.com**
 
