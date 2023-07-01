@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Phúc</h1>
 <h3 align="center">A passionate web-developer from VietNam</h3>
 
-<p align="left"> <img src="https://2.bp.blogspot.com/-PKXOb70don4/WS5o2K0r3rI/AAAAAAAAPc0/roR4jqn3FiclxU08R8-NvEErOuj6GhAyACLcB/w1200-h630-p-k-no-nu/INNtiDQ.gif" /> </p>
+<p align="left"> <img src="https://giphy.com/gifs/typing-9w0z3gxgaEUiA" /> </p>
 
 - 📫 How to reach me **hoangphucseiza@gmail.com**
 
