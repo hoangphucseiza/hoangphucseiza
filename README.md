@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphucseiza&" alt="hoangphucseiza" /></p>
 
 
-![snake gif](https://github.com/hoangphucseiza/hoangphucseiza/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/hoangphucseiza/hoangphucseiza/output/github-contribution-grid-snake.svg" />
