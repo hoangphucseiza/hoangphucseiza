@@ -1,4 +1,5 @@
 ![MasterHead](https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif)
+
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Phúc</h1>
 <h3 align="center">You can call me Seiza</h3>
 
@@ -7,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangphucseiza" alt="hoangphucseiza" /></a> </p>
 
 - 📫 How to reach me **hoangphucseiza@gmail.com**
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangphucseiza&theme=aura_dark)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -20,3 +21,4 @@
 
 
 <img src="https://raw.githubusercontent.com/hoangphucseiza/hoangphucseiza/output/github-contribution-grid-snake.svg" />
+
