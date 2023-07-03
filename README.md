@@ -1,7 +1,6 @@
 ![MasterHead](https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif)
 
-<h1 align="center">Hi everyone 👋, I'm Nguyễn Hoàng Phúc</h1>
-<h3 align="center">You can call me Seiza</h3>
+<h1 align="center">👋 Hi everyone, I'm Seiza 👋</h1>
 
 <p align="left"> <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" /> </p>
 
@@ -23,7 +22,7 @@
 
 
 
-<p><img align="center" src="https://atplink.com/hoangphucseiza " /></p>
+
 <!--<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
