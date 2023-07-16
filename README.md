@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi everyone, I'm Seiza 👋</h1>
 
-<p align="left"> <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" /> </p>
+<!--<p align="left"> <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangphucseiza" alt="hoangphucseiza" /></a> </p>
 
@@ -10,7 +10,7 @@
 <h1 align="center">⚡ Stats ⚡</h1>
 <p align="left">
 </p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangphucseiza&theme=aura_dark" alt="hoangphucseiza" /></p>
+<!--<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangphucseiza&theme=aura_dark" alt="hoangphucseiza" /></p>-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangphucseiza&show_icons=true&locale=en&layout=compact" alt="hoangphucseiza" /></p>
 
 <p>&nbsp;<img align="lèt" src="https://github-readme-stats.vercel.app/api?username=hoangphucseiza&show_icons=true&locale=en" alt="hoangphucseiza" /></p>
@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphucseiza&" alt="hoangphucseiza" /></p>
 
 
-<img src="https://raw.githubusercontent.com/hoangphucseiza/hoangphucseiza/output/github-contribution-grid-snake.svg" />
+<!--<img src="https://raw.githubusercontent.com/hoangphucseiza/hoangphucseiza/output/github-contribution-grid-snake.svg" />-->
 
 
 
