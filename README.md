@@ -1,12 +1,13 @@
-![MasterHead](https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif)
+<!--![MasterHead](https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif)-->
 
 <h1 align="center">👋 Hi everyone, I'm Seiza 👋</h1>
 
 <!--<p align="left"> <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangphucseiza" alt="hoangphucseiza" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangphucseiza" alt="hoangphucseiza" /></a> </p>-->
+<p align="center">📫 Contact me: <a href="mailto:hoangphucseiza@gmail.com">hoangphucseiza@gmail.com</a></p>
 
-📫 Contact me: **hoangphucseiza@gmail.com**
+<!--📫 Contact me: **hoangphucseiza@gmail.com** -->
 <h1 align="center">⚡ Stats ⚡</h1>
 <p align="left">
 </p>
