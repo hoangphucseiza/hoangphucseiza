@@ -8,7 +8,7 @@
 <p align="center">📫 Contact me: <a href="mailto:hoangphucseiza@gmail.com">hoangphucseiza@gmail.com</a></p>
 
 <!--📫 Contact me: **hoangphucseiza@gmail.com** -->
-<h1 align="center">⚡ Srtats ⚡</h1>
+<h1 align="center">⚡ Stats ⚡</h1>
 <p align="left">
 </p>
 <!--<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangphucseiza&theme=aura_dark" alt="hoangphucseiza" /></p>-->
