@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="lèt" src="https://github-readme-stats.vercel.app/api?username=hoangphucseiza&show_icons=true&locale=en" alt="hoangphucseiza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphucseiza&" alt="hoangphucseiza" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphucseiza&" alt="hoangphucseiza" /></p> -->
 
 
 <!--<img src="https://raw.githubusercontent.com/hoangphucseiza/hoangphucseiza/output/github-contribution-grid-snake.svg" />-->
