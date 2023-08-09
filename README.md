@@ -14,7 +14,7 @@
 <!--<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangphucseiza&theme=aura_dark" alt="hoangphucseiza" /></p>-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangphucseiza&show_icons=true&locale=en&layout=compact" alt="hoangphucseiza" /></p>
 
-<p>&nbsp;<img align="lèt" src="https://github-readme-stats.vercel.app/api?username=hoangphucseiza&show_icons=true&locale=en" alt="hoangphucseiza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangphucseiza&show_icons=true&locale=en" alt="hoangphucseiza" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangphucseiza&" alt="hoangphucseiza" /></p> -->
 
