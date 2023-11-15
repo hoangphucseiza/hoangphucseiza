@@ -9,11 +9,5 @@ If you would like to get in touch or collaborate with me, please use the followi
 - 📧 **Email**: [Personal Email](mailto:hoangphucseiza@gmail.com) or [School Email](mailto:21520400@gm.uit.edu.vn)
 - 💼 **LinkedIn**: [Nguyễn Hoàng Phúc](https://www.linkedin.com/in/hoangphucseiza/)
 - 🐦 **Facebook**: [Hoàng Phúc Seiza](https://www.facebook.com/hoangphucseiza)
-/*
-## YouTube
-
-Feel free to check out my YouTube channel for tech-related content and project demos:
-
-[My Channel](https://www.youtube.com/channel/UCKw7i2-8317-K-AdPzAWgcA) */
 
 Thanks you!!! 😊
