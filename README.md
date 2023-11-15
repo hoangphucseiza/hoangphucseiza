@@ -6,8 +6,8 @@ My name's Nguyễn Hoàng Phúc. I am interested in technology and enjoy researc
 
 If you would like to get in touch or collaborate with me, please use the following means of communication:
 
-- 📧 Email: [hoangphucseiza@gmail.com] or [21520400@gm.uit.edu.vn]
-- 💼 LinkedIn: [https://www.linkedin.com/in/hoangphucseiza/]
-- 🐦 Facebook: [https://www.facebook.com/hoangphucseiza]
+- 📧 **Email**: [Person mail](mailto:hoangphucseiza@gmail.com) or [School mail](mailto:21520400@gm.uit.edu.vn)
+- 💼 **LinkedIn**: [Nguyễn Hoàng Phúc](https://www.linkedin.com/in/hoangphucseiza/)
+- 🐦 **Facebook**: [Hoàng Phúc Seiza](https://www.facebook.com/hoangphucseiza)
 
 Thanks you!!! 😊
