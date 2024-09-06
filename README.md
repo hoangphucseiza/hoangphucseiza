@@ -8,6 +8,5 @@ If you would like to get in touch or collaborate with me, please use the followi
 
 - 📧 **Email**: [hoangphucseiza@gmail.com](mailto:hoangphucseiza@gmail.com) or [21520400@gm.uit.edu.vn](mailto:21520400@gm.uit.edu.vn)
 - 💼 **LinkedIn**: [Nguyễn Hoàng Phúc](https://www.linkedin.com/in/hoangphucseiza/)
-- 🐦 **Facebook**: [Hoàng Phúc Seiza](https://www.facebook.com/hoangphucseiza)
 
 Thanks you!!! 😊
