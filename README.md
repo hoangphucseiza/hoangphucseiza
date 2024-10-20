@@ -1,6 +1,6 @@
 # Hello, guys! 👋
 
-My name's Nguyễn Hoàng Phúc. I am interested in technology and enjoy researching, analyzing, and developing software projects. Currently, I am a student at the University of Information Technology, majoring in Information Systems. I am eager to further develop myself in the future and gain experience in various new environments.
+I am a software engineer and I want to gain practical knowledge and experience. Additionally, I want to experience a professional working environment and develop myself further in the future.
 
 ## Contact me
 
