@@ -10,3 +10,5 @@ If you would like to get in touch or collaborate with me, please use the followi
 - 💼 **LinkedIn**: [Nguyễn Hoàng Phúc](https://www.linkedin.com/in/hoangphucseiza/)
 
 Thanks you!!! 😊
+<br>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
