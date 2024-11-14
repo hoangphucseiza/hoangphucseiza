@@ -11,4 +11,4 @@ If you would like to get in touch or collaborate with me, please use the followi
 
 Thanks you!!! 😊
 <br>
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
