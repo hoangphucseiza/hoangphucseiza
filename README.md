@@ -1,6 +1,6 @@
 # Hello, guys! 👋
 
-I am a software engineer and I want to gain practical knowledge and experience. Additionally, I want to experience a professional working environment and develop myself further in the future.
+I am a software engineer who is always striving to learn and enhance my knowledge to stay aligned with the ever-evolving technology market. With a strong sense of responsibility in my work, I continuously seek opportunities to improve my expertise, develop my skills, and gain experience in professional working environments. I am eager to further grow and advance my career in the future, contributing to the development of effective and sustainable technological solutions.
 
 ## Contact me
 
