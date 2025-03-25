@@ -5,8 +5,6 @@ I am a software engineer who is always striving to learn and enhance my knowledg
 ## Contact me
 
 If you would like to get in touch or collaborate with me, please use the following means of communication:
-
-- 📧 **Email**: [hoangphucseiza@gmail.com](mailto:hoangphucseiza@gmail.com) or [21520400@gm.uit.edu.vn](mailto:21520400@gm.uit.edu.vn)
 - 💼 **LinkedIn**: [Nguyễn Hoàng Phúc](https://www.linkedin.com/in/hoangphucseiza/)
 
 Thanks you!!! 😊
